@@ -14,6 +14,7 @@ public class Controller implements Initializable {
     private WebEngine windowGenerator;
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-
+        windowGenerator = window.getEngine();
+        windowGenerator.load("https://google.co.in");
     }
 }
