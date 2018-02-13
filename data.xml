@@ -1,0 +1,1 @@
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" fx:controller="sample.Controller" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" ><children><WebView fx:id="window" prefHeight="200.0" prefWidth="200.0" /></children></StackPane>
