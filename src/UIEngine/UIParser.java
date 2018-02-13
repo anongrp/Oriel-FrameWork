@@ -22,6 +22,7 @@ public class UIParser {
             "<body>\n" +
             "</body>\n" +
             "</html>";
+
     public UIParser(File xmlFile) throws IOException {
         this.xmlFile=xmlFile;
         htmlFile=new File("..//Test.html");
