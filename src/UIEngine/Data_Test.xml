@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window width:"800" height:"500" controller:MainController.class>
+    <Children>
+        <Pane width:"200" height:"200">
+            <Children>
+                <Button width:"800" height:"500" onClick:fun>First Button</Button>
+            </Children>
+        </Pane>
+    </Children>
+</Window>
