@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Oriel>
-    <Winow width="1200" height="700" title="Oriel FrameWork 2018">
+    <Window width="1200" height="700" title="Oriel FrameWork 2018" >
         <HWrapper>
             <Label style="buttonStyle">Welcome To First Oriel GUI</Label>
         </HWrapper>
         <VWrapper>
 
         </VWrapper>
-    </Winow>
+    </Window>
 
     <StyleSheet>
         <buttonStyle>
